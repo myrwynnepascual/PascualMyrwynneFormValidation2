@@ -1,0 +1,61 @@
+.container
+{
+    margin-left: 520px;
+    margin-top: 200px   ;
+    border: solid;
+    border-width: 15px;
+    max-width: 10cm;
+    background-color: gray;
+    padding-top: 30px;
+}
+
+p
+{
+    font-size:  13px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    margin-left: 1cm;
+}
+
+label
+{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    margin-left: 1cm;
+}
+
+#login
+{
+    margin-left: 83px;
+    width: 1.5in;
+}
+
+#pass1
+{
+    margin-left: 59px;
+    width: 1.5in;
+}
+
+#pass2
+{
+    margin-left: 11px;
+    width: 1.5in;
+}
+
+#email
+{
+    margin-left: 84px;
+    width: 1.5in;
+}
+
+select
+{
+    margin-left: 73.5px;
+    width: 1.53in;
+}
+
+#butt
+{
+    margin-left: 1cm;
+}
